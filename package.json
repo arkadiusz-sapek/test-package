@@ -1,0 +1,24 @@
+{
+  "name": "my-super-test-package123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkadiusz-sapek/test-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkadiusz-sapek/test-package/issues"
+  },
+  "homepage": "https://github.com/arkadiusz-sapek/test-package#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
